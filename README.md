@@ -1,6 +1,5 @@
 # Library-Management-System
 # ScreenShot
-![Alt text]("C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2024-10-24 103444.png")
 ![1](https://github.com/ankitpanwar1707/Library-Management-System/blob/main/Screenshot%202024-10-24%20103444.png)
 ![2](https://user-images.githubusercontent.com/73348574/205632416-bfcc2c19-3f70-4688-bb7e-0ccd83be3038.png)
 ![3](https://user-images.githubusercontent.com/73348574/205632598-6b009820-20ec-4e9f-92bf-00af92d4f1a4.png)
